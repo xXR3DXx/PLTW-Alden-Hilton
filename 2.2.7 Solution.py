@@ -1,4 +1,4 @@
-# This program is created by Alden Hilton for 2.2.7 PLTW.
+# This program is created by Alden Hilton for 2.2.7 PLTW. If given code is used, please credit repectively.
 
 import tkinter as tk
 import os
